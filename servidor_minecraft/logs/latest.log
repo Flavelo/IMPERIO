@@ -2213,3 +2213,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Feb2025 16:58:28.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:55197] logged in with entity id 48 at (-3.885986950012421, 73.0, 21.114314888775578)
 [26Feb2025 16:58:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
 [26Feb2025 16:58:29.102] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
+[26Feb2025 17:02:44.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Timed out
+[26Feb2025 17:02:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
